@@ -64,7 +64,7 @@ Me especializo en la gestión de proyectos tecnológicos, optimización de proce
 
 ## 📬 Contacto
 - **GitHub**: [https://github.com/GabyHL26](https://github.com/GabyHL26)
-- **LinkedIn**: [tu_linkedin_aqui](https://www.linkedin.com) (Si tienes LinkedIn)
-- **Correo**: gabriela.hidalgo@ejemplo.com (Si quieres compartirlo)
+- **LinkedIn**:[https://www.linkedin.com](https://www.linkedin.com/in/gabrielahl26/)) 
+- **Correo**: gabrielahidalgol95@gmail.com
 
 ---
